@@ -1,0 +1,12 @@
+---
+templateKey: blog-post
+title: Test new Blog
+date: 2021-02-24T07:49:49.898Z
+description: hgggggggggggggggggggghghgbgdfdfdfdfdfdfddgbghghghgopppppppppppppppppppppppp.
+  yjyjyjjjjjjjjjjgfeswqassdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+featuredpost: true
+featuredimage: /img/blog-index.jpg
+tags:
+  - newblog
+---
+hsjhjghdjkggjdhjdghjdghdjghdfjghdfjghdjfghjhgfgfggdgdljgrknvjdgjrjddjbdgggggggggggggggggggggggggggggggggggggggggggggggtttttttttttttttttteeeeeeeeeeeeeeeeeeeezzzzzzzzzzzzwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddvvvvvvvvvvffffffffffffffffffffffssssssssssssssssssssssaaaaaaaaaaaaaaaaaaqqqqqqqqqqqqqqerr
